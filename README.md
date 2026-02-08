@@ -27,30 +27,6 @@ con el objetivo de reforzar los fundamentos teóricos del aprendizaje automátic
 
 ---
 
-## 📂 Estructura del proyecto
-
-```text
-proyecto-compactacion-suelo/
-│
-├── data/
-│   └── dataset.csv           # Dataset original de campo
-│
-├── src/
-│   ├── preprocessing.py      # Limpieza y preprocesamiento de datos
-│   ├── knn.py                 # Implementación manual de k-NN
-│   ├── decision_tree.py       # Implementación del Árbol ID3
-│   ├── metrics.py             # Métricas de evaluación
-│   └── main.py                # Ejecución principal del proyecto
-│
-├── docs/
-│   └── informe_proyecto.pdf   # Informe académico
-│
-├── README.md                  # Documentación del proyecto
-└── requirements.txt           # (Vacío, no se usan librerías externas)
-```
-
----
-
 ## 📊 Conjunto de datos
 
 El dataset contiene mediciones realizadas en parcelas agrícolas, incluyendo información sobre:
